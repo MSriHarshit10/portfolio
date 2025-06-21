@@ -5,32 +5,32 @@ export const Certificates = () => {
     {
       title: "Introduction to SQL",
       provider: "edX",
-      file: "/certificates/EDX_SQL.pdf",
+      file: "./certificates/EDX_SQL.pdf",
     },
     {
       title: "Introduction to Web Development",
       provider: "EDX",
-      file: "/certificates/EDX_WEBDEV.pdf",
+      file: "./certificates/EDX_WEBDEV.pdf",
     },
     {
       title: "Cloud Computing",
       provider: "NPTEL",
-      file: "/certificates/Cloud_Computing.pdf",
+      file: "./certificates/Cloud_Computing.pdf",
     },
     {
       title: "Python Development Internship",
       provider: "Next24Tech",
-      file: "/certificates/Next24Tech.pdf",
+      file: "./certificates/Next24Tech.pdf",
     },
     {
       title: "Java Development Internship",
       provider: "Intrainz",
-      file: "/certificates/Intrainz.pdf",
+      file: "./certificates/Intrainz.pdf",
     },
     {
       title: "Data Science For Engineers",
       provider: "NPTEL",
-      file: "/certificates/Data_Science_for_Engineers.pdf",
+      file: "./certificates/Data_Science_for_Engineers.pdf",
     },
   ];
 

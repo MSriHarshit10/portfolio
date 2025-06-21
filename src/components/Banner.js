@@ -18,7 +18,7 @@ export const Banner = () => {
               <span className="gradient-text typewriter-wrapper">{text}</span>
             </h1>
 
-            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="resume-button">
+            <a href="./resume.pdf" target="_blank" rel="noopener noreferrer" className="resume-button">
               Resume<FileEarmarkPersonFill className="resume-icon" />
             </a>
           </Col>
