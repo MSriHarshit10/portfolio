@@ -32,7 +32,7 @@ export const Projects = () => {
       title: "Portfolio Website",
       description: "A personal portfolio site built using React and Bootstrap.",
       techStack: "React, Bootstrap, HTML, CSS",
-      github: "https://github.com/MSriHarshit10/personal-portfolio"
+      github: "https://github.com/MSriHarshit10/portfolio"
     },
     {
       title: "Human Migration Predicition",
